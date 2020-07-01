@@ -1,8 +1,8 @@
 completion_text: |-
   <p>Es por ello que es importante aprenderlo</p>
 description: "Introducci\xF3n al mercadeo"
-next_flow_id: ''
-next_flow_title: ''
+next_flow_id: quiz2
+next_flow_title: TOMA EL QUIZ
 pages:
 - content: "<p><span style=\"font-family: Verdana; font-size: small; text-align: justify;\"\
     >Se ha empleado el anglicismo \"marketing\", debido a la expansi\xF3n de su uso\
